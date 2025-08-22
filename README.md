@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**LJ749/LJ749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello there, I'm Lord Joaquin Mangubat
+About Me 
+•  BSIT Student at Laguna State Polytechnic University 
+• Currently learning React, PHP, Python, Flask, SQL, Firebase, Flutter, and Dart 
+•  Goal: To become a skilled Web and Mobile Application Developer 
+•  Interested in Software Development and UI/UX Design
+Skills 
+• Languages: Python, Dart, SQL, React, PHP
+• Frameworks/Tools: Flask, Flutter, Git, GitHub 
+• Other: Database Management, Web Development Basics 
+Current Projects 
+• Developing a web and mobile capstone project
+• Developing practice projects in Python and Flutter 
+• Creating small apps as portfolio projects 
+ Connect with Me 
+• Email: lordjoaquin72@gmail.com
