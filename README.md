@@ -2,7 +2,7 @@
 
 My name isLord Joaquin  and I'm a Beginner Developer. 
 
-## 🔧 Technologies & Tools
+## 🔧 Language & Tools
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
