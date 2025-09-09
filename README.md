@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-My name isLord Joaquin  and I'm a Beginner Developer. I'm from Philippines. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name isLord Joaquin  and I'm a Beginner Developer. I'm from Philippines. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
