@@ -1,31 +1,65 @@
-Hello there, I'm Lord Joaquin Mangubat
+<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-About Me
+My name isLord Joaquin  and I'm a Beginner Developer. I'm from Philippines. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-•  BSIT Student at Laguna State Polytechnic University 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-• Currently learning React, PHP, Python, Flask, SQL, Firebase, Flutter, and Dart 
 
-•  Goal: To become a skilled Web and Mobile Application Developer 
+## &#x1f4c8; GitHub Stats
 
-•  Interested in Software Development and UI/UX Design
+<a href="https://github.com/LJ749/LJ749">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJ749&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/LJ749/LJ749">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LJ749&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
+</a>
 
-Skills
+<a href="https://github.com/LJ749/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LJ749&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-• Languages: Python, Dart, SQL, React, PHP
 
-• Frameworks/Tools: Flask, Flutter, Git, GitHub 
+<a href="https://github.com/LJ749/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LJ749&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
-• Other: Database Management, Web Development Basics 
+<!-- links to social media icons -->
 
-Current Projects
+<!-- icons with padding -->
 
-• Developing a web and mobile capstone project
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-• Developing practice projects in Python and Flutter 
+<!-- icons without padding -->
 
-• Creating small apps as portfolio projects 
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
-Connect with Me
 
-• Email: lordjoaquin72@gmail.com
+
+<!-- links to your social media accounts -->
+
+[1]: https://github.com/LJ749
+[2]: https://www.linkedin.com/in/lord-joaquin-mangubat-4a8278380
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
